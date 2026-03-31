@@ -3,8 +3,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | Hardik Agarwal |
-| **Registration Number** | 24BCE11347 |
+| **Student Name** | Paras Jain |
+| **Registration Number** | 24BCE11264 |
 | **Chosen Software** | Linux Kernel |
 | **License** | GNU General Public License v2 (GPL v2) |
 
